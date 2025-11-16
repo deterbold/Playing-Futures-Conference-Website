@@ -26,12 +26,14 @@ jobs:
       - name: Build Hugo site
         run: hugo --minify --baseURL "https://playingfutures.today/"
 
-      - name: Deploy to hosting via SFTP
-        uses: wlixcc/SFTP-Deploy-Action@v1.2.4
+      - name: Deploy via SFTP
+        uses: pressidium/lftp-mirror-action@v1
         with:
-          server: ${{ secrets.SFTP_SERVER }}
+          host: ${{ secrets.SFTP_SERVER }}
           port: 2222
-          username: ${{ secrets.SFTP_USERNAME }}
-          password: ${{ secrets.SFTP_PASSWORD }}
-          local_path: './public/*'
-          remote_path: '/htdocs/'
+          user: ${{ secrets.SFTP_USERNAME }}
+          pass: ${{ secrets.SFTP_PASSWORD }}
+          onlyNewer: true
+          settings: 'sftp:auto-confirm yes'
+          localDir: 'public/'
+          remoteDir: '/htdocs/'
