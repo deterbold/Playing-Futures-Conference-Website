@@ -1,26 +1,29 @@
-baseURL = 'https://playingfutures.github.io/'
+baseURL = 'https://playingfutures.today/'
 languageCode = 'en-us'
 title = 'Playing Futures Conference'
 theme = 'hello-friend-ng'
 
 [params]
-  defaultTheme = "auto"
-  showReadingTime = false
-  showPostNavLinks = true
+defaultTheme = "auto"
+showReadingTime = false
+showPostNavLinks = true
+
+[params.Logo]
+logoText = "Playing Futures"
 
 [menu]
-  [[menu.main]]
-    identifier = "about"
-    name = "About"
-    url = "/about/"
-    weight = 20
-  [[menu.main]]
-    identifier = "cfp"
-    name = "Call for Papers"
-    url = "/call-for-papers/"
-    weight = 30
-  [[menu.main]]
-    identifier = "conferences"
-    name = "Conferences"
-    url = "/conferences/"
-    weight = 40
+[[menu.main]]
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = 20
+[[menu.main]]
+identifier = "cfp"
+name = "Call for Papers"
+url = "/call-for-papers/"
+weight = 30
+[[menu.main]]
+identifier = "conferences"
+name = "Conferences"
+url = "/conferences/"
+weight = 40
