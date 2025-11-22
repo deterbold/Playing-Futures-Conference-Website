@@ -4,7 +4,7 @@ date: 2025-11-16
 draft: false
 ---
 
-# Playing Futures 2026
+## Playing Futures 2026
 
 - **Date**: May 2026
 - **Location**: IT University of Copenhagen
