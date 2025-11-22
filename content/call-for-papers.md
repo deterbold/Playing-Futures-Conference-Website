@@ -6,6 +6,10 @@ draft: false
 
 # Playing Futures 2026
 
+- **Date**: May 2026
+- **Location**: IT University of Copenhagen
+- **Format**: In-person (with possibility for remote presentations)
+
 **Conference dates**
 
 **Conference location**

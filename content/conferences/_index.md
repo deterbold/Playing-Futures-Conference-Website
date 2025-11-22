@@ -13,4 +13,5 @@ This will host the archive of the Playing Futures conference
 Browse our conference archives and upcoming events by year:
 
 ### Past Conferences
+
 *Past conference information will be added as the conference series develops*
