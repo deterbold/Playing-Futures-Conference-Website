@@ -4,8 +4,6 @@ date: 2025-11-16
 draft: false
 ---
 
-# Playing Futures Conferences
-
 This will host the archive of the Playing Futures conference
 
 ## Conference Years
