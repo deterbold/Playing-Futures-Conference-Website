@@ -11,6 +11,12 @@ showPostNavLinks = true
 [params.Logo]
 logoText = "Playing Futures"
 
+[params.footer]
+bottomText = [
+  'Hosted on <a href="https://1984.hosting" target="_blank" rel="noopener">1984.hosting</a>',
+  'Built with <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>'
+]
+
 [menu]
 [[menu.main]]
 identifier = "about"

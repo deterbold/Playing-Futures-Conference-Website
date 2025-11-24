@@ -4,12 +4,11 @@ date: 2025-11-16
 draft: false
 ---
 
-This will host the archive of the Playing Futures conference
+This will host the archive of the Playing Futures conference.
 
-## Conference Years
+## Conferences
 
 Browse our conference archives and upcoming events by year:
 
-### Past Conferences
+[Playing Futures 2026](/conferences/2026/)
 
-*Past conference information will be added as the conference series develops*

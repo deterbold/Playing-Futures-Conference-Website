@@ -6,10 +6,6 @@ draft: false
 
 ## Playing Futures 2026
 
-- **Date**: May 2026
-- **Location**: IT University of Copenhagen
-- **Format**: In-person (with possibility for remote presentations)
-
 **Conference dates**
 
 **Conference location**
@@ -50,7 +46,7 @@ Playing Futures does not focus on research that treats games as purely utilitari
 
 Playing Futures is particularly interested in perspectives from geographical and disciplinary margins that explore how futures are represented, simulated, and played in both digital and analog games, along with examining the role of game production in shaping futures. The Playing Futures conference encourages participants to present work that considers the future from a generational viewpoint, beyond the urgency of the present. 
 
-Playing Futures is a single-track, presentation-based conference where authors will have 30 minutes to present their work, with at least 15 minutes available for discussion. The conference will take place at the IT University of Copenhagen between May xxx and May yyy. The talks will not be streamed, but the conference proceedings will consist of recordings of the presentations. The conference is free to attend.
+Playing Futures is a single-track, presentation-based conference where authors will have 30 minutes to present their work, with at least 15 minutes available for discussion. The conference will take place at the IT University of Copenhagen on May 17th and May 18th 2026. The talks will not be streamed, but the conference proceedings will consist of recordings of the presentations. The conference is free to attend.
 
 
 **Selected Bibliography**
