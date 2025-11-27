@@ -14,7 +14,7 @@ draft: false
 
 **Conference submission link to be added here**
 
-The first Playing Futures conference invites proposals that focus on issues related, but not limited to, any of the following topics, from the perspective of climate and energy futures:
+The first Playing Futures conference invites proposals of academic abstracts and of interactive works that focus on issues related, but not limited to, any of the following topics, from the perspective of climate and energy futures:
 
 -	Representations of climate and energy futures in videogames and board games, such as ecogames, dystopian/utopian games, or solarpunk games.
 -	Representations of climate and energy futures in role-playing games and LARPs.
@@ -28,25 +28,24 @@ The first Playing Futures conference invites proposals that focus on issues rela
 -	Material practices in the game industry, for example on issues of sustainability or permacomputing.
 -	Game industry policies and regulations, from climate-relevant union actions to legislation on sustainable technological development.
 
-Playing Futures welcomes submissions in the form of traditional academic abstracts and of interactive works. 
 
-Traditional academic abstracts will undergo peer review for conference acceptance. We encourage the submission of late breaking work, works in progress, as well as more established research projects.
+Playing Futures does not focus on research that treats games as purely utilitarian tools in formal education settings, nor on “gamification” approaches to addressing climate and energy issues. Instead, Playing Futures wants to explore what games and play, as forms of entertainment and aesthetic experience, can contribute during and after climate and energy crises. Playing Futures is particularly interested in perspectives from geographical and disciplinary margins that explore how futures are represented, simulated, and played in both digital and analog games, along with examining the role of game production in shaping futures. The Playing Futures conference encourages participants to present work that considers the future from a generational viewpoint, beyond the urgency of the present. 
 
-Interactive works include any digital or analog creations that can be shared through a platform like itch.io. The works must be playable, though not necessarily finished, and the conference must have permission to distribute them via the conference’s itch.io page. These works can be at any development stage, from prototypes to finished products. The projects will not be physically exhibited at the conference. Instead, we ask authors to submit, along with their creative work, a 1200 word max. abstract—excluding references—in Word or PDF format for peer review. The review of interactive works will be made following criteria based on their creative and expressive value, with academic value being relevant but secondary to the conditions of acceptance. We encourage the submission of works that explore agency and possible worlds using the rhetorics and poetics of playable media.
+Playing Futures is a single-track, presentation-based conference where authors will have 30 minutes to present their work, with at least 15 minutes available for discussion. The conference will take place at the IT University of Copenhagen on May 17th and May 18th 2026. Playing Futures aspires to build a community of researchers and practitioners invested in working with the role of games and play in the future. As such, we encourage in-person participation in the event, understanding that the economic and geographic realities may not always allow for this. We encourage participants close to Copenhagen to avoid flying if/when possible.
 
-**Abstract format:** Abstracts should be of no more than 1200 words excluding references. Abstracts should be anonymized for peer-review, and submitted as pdf or Word documents through the conference management system. References can follow any conventional format. Accepted abstracts will not be published. 
+The talks will not be streamed, but the conference proceedings will consist of recordings of the presentations. The conference is free to attend.
 
-**Interactive works submissions:** Interactive works should submit a link to a playable/interactable version of the work, as well as a 1200 word max. abstract detailing the interactive work's contributions to the conference topics. Interactive works will be evaluate on the basis of their qualities as interactive works, and not on the abstract's qualities.
+
+**Academic abstract format:** Abstracts should be of no more than 1200 words excluding references. Abstracts should be anonymized for peer-review, and submitted as pdf or Word documents through the conference management system. References can follow any conventional format. Accepted abstracts will not be published. 
+
+**Interactive works format:** Interactive works should submit a link to a playable/interactable version of the work, as well as a 1200 word max. abstract detailing the interactive work's contributions to the conference topics. Interactive works will be evaluate on the basis of their qualities as interactive works, and not on the abstract's qualities. Interactive works include any digital or analog creations that can be shared through a platform like itch.io. The works must be playable, though not necessarily finished, and the conference must have permission to distribute them via the conference’s itch.io page. These works can be at any development stage, from prototypes to finished products. The projects will not be physically exhibited at the conference. Instead, we ask authors to submit, along with their creative work, a 1200 word max. abstract—excluding references—in Word or PDF format for peer review. The review of interactive works will be made following criteria based on their creative and expressive value, with academic value being relevant but secondary to the conditions of acceptance. We encourage the submission of works that explore agency and possible worlds using the rhetorics and poetics of playable media.
 
 Authors of all accepted submissions should prepare a 30-minute talk to be recorded and archived as part of the conference proceedings. Remote participation is possible for accepted works by authors whose economic or geographical situation does not allow travel.
 
-Authors of interactive works are also expected to prepare a 30-minute talk. There will be time during the conference for showcasing the works to the attending audience.
+Authors of interactive works are also expected to prepare a 30-minute talk. There will be time during the conference for casual showcasing the works to the attending audience, but there will be no exhibition. Participants should bring everything needed to showcase their works.
 
-Playing Futures does not focus on research that treats games as purely utilitarian tools in formal education settings, nor on “gamification” approaches to addressing climate and energy issues. Instead, Playing Futures wants to explore what games and play, as forms of entertainment and aesthetic experience, can contribute during and after climate and energy crises. 
 
-Playing Futures is particularly interested in perspectives from geographical and disciplinary margins that explore how futures are represented, simulated, and played in both digital and analog games, along with examining the role of game production in shaping futures. The Playing Futures conference encourages participants to present work that considers the future from a generational viewpoint, beyond the urgency of the present. 
 
-Playing Futures is a single-track, presentation-based conference where authors will have 30 minutes to present their work, with at least 15 minutes available for discussion. The conference will take place at the IT University of Copenhagen on May 17th and May 18th 2026. The talks will not be streamed, but the conference proceedings will consist of recordings of the presentations. The conference is free to attend.
 
 
 **Selected Bibliography**
