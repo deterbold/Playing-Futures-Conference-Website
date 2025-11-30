@@ -21,7 +21,7 @@ The first Playing Futures conference invites proposals of academic abstracts and
 -	Game communities and their climate actions, awareness, or responsibilities.
 -	Playable simulations of energy and climate futures.
 -	Play practices related to ecological and environmental thinking, in games as well as outside traditional formats of games.
--	Game development methods such as sustainable game production.
+-	Game making methods such as sustainable game production.
 -	Game design and the challenges and possibilities  of representing or enacting futures through playable media.
 -	Game technology and topics of efficiency and sustainability.
 -	Game philosophy, for example focusing on the ethics of games and play in the context of the climate futures.
