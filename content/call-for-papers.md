@@ -7,12 +7,15 @@ draft: false
 ## Playing Futures 2026
 
 **Conference dates**
+May 20th - May 22nd 2026
 
 **Conference location**
+IT University of Copenhagen, Denmark
 
 **Important dates**
+February 16th - Submission deadline.
 
-**Conference submission link to be added here**
+[Submit your work](https://easyabs.linguistlist.org/conference/PF2026/)
 
 The first Playing Futures conference invites proposals of academic abstracts and of interactive works that focus on issues related, but not limited to, any of the following topics, from the perspective of climate and energy futures:
 
