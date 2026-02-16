@@ -13,7 +13,7 @@ May 20th - May 22nd 2026
 IT University of Copenhagen, Denmark
 
 **Important dates**
-February 16th - Submission deadline.
+UPDATED: February 23rd - Submission deadline (final deadline, no extensions will be)
 
 [Submit your work](https://easyabs.linguistlist.org/conference/PF2026/)
 
