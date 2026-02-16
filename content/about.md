@@ -19,4 +19,4 @@ _Playing Futures_ is an initiative of the [Center for Digital Play](https://digi
 
 ## Contact
 
-For more information about Playing Futures, please [contact us](mailto:conference@playfutures.today)
+For more information about Playing Futures, please [contact us](mailto:conference@playingfutures.today)
