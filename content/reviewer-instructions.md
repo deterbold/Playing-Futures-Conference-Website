@@ -4,7 +4,6 @@ date: 2026-02-26
 draft: false
 ---
 
-# Instructions for Reviewers
 
 First of all, thank you very much for spending your time helping us review the works submitted to _Playing futures_. In this page you have the basic instructions for reviewing. It will be updated to address any questions we receive.
 
