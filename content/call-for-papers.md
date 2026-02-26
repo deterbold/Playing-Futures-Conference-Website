@@ -13,7 +13,8 @@ May 20th - May 22nd 2026
 IT University of Copenhagen, Denmark
 
 **Important dates**
-February 16th - Submission deadline.
+~~February 16th - Submission deadline.~~
+February 20th - Submission deadline
 
 [Submit your work](https://easyabs.linguistlist.org/conference/PF2026/)
 
@@ -42,7 +43,7 @@ Submissions and presentations will be in English.
 
 **Academic abstract format:** Abstracts should be of no more than 1200 words excluding references. Abstracts should be anonymized for peer-review, and submitted as pdf or Word documents through the conference management system. References can follow any conventional format. Accepted abstracts will not be published. 
 
-**Interactive works format:** Interactive works should submit a link to a playable/interactable version of the work, as well as a 1200 word max. abstract detailing the interactive work's contributions to the conference topics. Interactive works will be evaluate on the basis of their qualities as interactive works, and not on the abstract's qualities. Interactive works include any digital or analog creations that can be shared through a platform like itch.io. The works must be playable, though not necessarily finished, and the conference must have permission to distribute them via the conference’s itch.io page. These works can be at any development stage, from prototypes to finished products. The projects will not be physically exhibited at the conference. Instead, we ask authors to submit, along with their creative work, a 1200 word max. abstract—excluding references—in Word or PDF format for peer review. The review of interactive works will be made following criteria based on their creative and expressive value, with academic value being relevant but secondary to the conditions of acceptance. We encourage the submission of works that explore agency and possible worlds using the rhetorics and poetics of playable media.
+**Interactive works format:** Interactive works should submit a link to a playable/interactable version of the work, as well as a 1200 word max. abstract detailing the interactive work's contributions to the conference topics. Interactive works will be evaluate on the basis of their qualities as interactive works, and not on the abstract's qualities. Interactive works include any digital or analog creations that can be shared through a platform like itch.io. The works must be playable, though not necessarily finished. **NEW** If the authors want, the conference can distribute the works via the conference’s itch.io page. These works can be at any development stage, from prototypes to finished products. The projects will not be physically exhibited at the conference. Instead, we ask authors to submit, along with their creative work, a 1200 word max. abstract—excluding references—in Word or PDF format for peer review. The review of interactive works will be made following criteria based on their creative and expressive value, with academic value being relevant but secondary to the conditions of acceptance. We encourage the submission of works that explore agency and possible worlds using the rhetorics and poetics of playable media.
 
 Authors of all accepted submissions should prepare a 30-minute talk to be recorded and archived as part of the conference proceedings. Remote participation is possible for accepted works by authors whose economic or geographical situation does not allow travel.
 
