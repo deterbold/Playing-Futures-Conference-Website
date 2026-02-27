@@ -15,6 +15,8 @@ When reviewing the creative, interactive works, it is as important to evaluate t
 
 All abstracts and works will have two reviewers, and Miguel Sicart will be the meta-reviewer in charge of taking the final decision [^1]. All reviews will be made available to the authors, but there will be no rebuttal period.
 
+The deadline for the reviews is **March 29th**.
+
 Again, than you so much for your time, and for helping us make _Playing Futures_ a successful experiment.
 
 [^1]: Yes, this is weird. In the future, we expect _Playing Futures_ to be a "proper" conference, with committees and tracks and chairs and other types of academic furniture. But this first time, we're doing it a bit differently. For any and all complains about this decision, you can [write to Miguel](mailto:miguel@itu.dk).
