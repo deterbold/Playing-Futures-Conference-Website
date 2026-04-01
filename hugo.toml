@@ -25,16 +25,6 @@ url = "/about/"
 weight = 20
 [[menu.main]]
 identifier = "current"
-name = "Current Conference"
+name = "Playing Futures 2026"
 url = "/conferences/2026/"
 weight = 25
-[[menu.main]]
-identifier = "cfp"
-name = "Call for Papers"
-url = "/call-for-papers/"
-weight = 30
-[[menu.main]]
-identifier = "conferences"
-name = "Archive"
-url = "/conferences/"
-weight = 50
