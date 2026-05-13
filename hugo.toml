@@ -3,6 +3,9 @@ languageCode = 'en-us'
 title = 'Playing Futures Conference'
 theme = 'hello-friend-ng'
 
+[markup.goldmark.renderer]
+unsafe = true
+
 [params]
 defaultTheme = "auto"
 showReadingTime = false
