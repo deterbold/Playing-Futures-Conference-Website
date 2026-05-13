@@ -33,7 +33,6 @@ jobs:
           port: 2222
           user: ${{ secrets.SFTP_USERNAME }}
           pass: ${{ secrets.SFTP_PASSWORD }}
-          onlyNewer: true
           settings: 'sftp:auto-confirm yes'
           localDir: 'public/'
           remoteDir: '/htdocs/'
