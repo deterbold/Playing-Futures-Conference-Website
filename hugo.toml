@@ -27,7 +27,7 @@ name = "About"
 url = "/about/"
 weight = 20
 [[menu.main]]
-identifier = "current"
-name = "Playing Futures 2026"
-url = "/conferences/2026/"
+identifier = "archive"
+name = "Archive"
+url = "/conferences/"
 weight = 25
